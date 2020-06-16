@@ -1,4 +1,4 @@
-# Google Ads Block
+# Google Ads Block (Snowflake Dialect)
 
 This repository contains views and explores used for the Google Ads Block dashboards.
 There are 5 dashboards that come with this block: Google Ads Overview, Google Ads - Clicks,
