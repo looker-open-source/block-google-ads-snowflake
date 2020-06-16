@@ -7,7 +7,7 @@ provides in-depth analysis of ad/campaign performance over a given timeframe.
 
 This project is remotely included through the Google Ads Block Config project.
 To pull updates from this project, update the `ref:` parameter in the manifest file. It should point to the latest commit
-in [block-google-ads](https://github.com/looker/block-google-ads/commits/master).
+in [block-google-ads-snowflake](https://github.com/looker/block-google-ads-snowflake/commits/master).
 
 The LookML constants are used to specify the name of the schema and connection. They are defined in the Google Ads
 Block Config project.
