@@ -12,7 +12,7 @@
     "label": "Connection Name",
     "value_constraint": "connection"
   },
-  "ADWORDS_SCHEMA": {
+  "GOOGLE_ADS_SCHEMA": {
     "label": "Google Schema Name"
   },
   "CONFIG_PROJECT_NAME": {
@@ -29,7 +29,7 @@
   {
     "git_uri": "git://github.com/looker/block-google-ads-config.git",
     "git_ref": "a2e0b795caca7c794db15c4d07a6c7ba8f31f531",
-    "label": "Google Adwords Config",
+    "label": "Google Ads Config",
     "constant_name": "CONFIG_PROJECT_NAME"
   }
 ]
