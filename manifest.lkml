@@ -3,7 +3,7 @@ project_name: "block-google-ads-snowflake"
 # # Library of common ad metrics definitions and date periods
 remote_dependency: app-marketing-common {
   url: "git://github.com/looker/app-marketing-common-snowflake"
-  ref: "50fe67a261dd909d0d7ffe23fc664a175635fbef"
+  ref: "e85634bcf7d66e2978a52371360903a91b3fef89"
 }
 
 remote_dependency: app-marketing-google-ads-adapter {
