@@ -1,10 +1,10 @@
 
 {
-"label": "Google Adwords",
+"label": "Google Ads (Snowflake)",
 "category_label": "Models",
 "branding": {
   "image_uri": "https://marketplace-api.looker.com/block-icons/google_icon.png",
-  "tagline": "Dig into campaigns and keywords, optimize spend and allocation, and maximize channel ROI for Google Adwords."
+  "tagline": "Dig into campaigns and keywords, optimize spend and allocation, and maximize channel ROI for Google Ads."
 },
 
 "constants": {
