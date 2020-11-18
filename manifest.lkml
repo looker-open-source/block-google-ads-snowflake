@@ -8,7 +8,7 @@ remote_dependency: app-marketing-common {
 
 remote_dependency: app-marketing-google-ads-adapter {
   url: "git://github.com/looker/app-marketing-google-ads-fivetran-snowflake"
-  ref: "0ef317b7c76e8849792aa0297af00ad8bb6461bc"
+  ref: "ae74209c464869c50bdf26b83087185f6d9f4d4e"
 }
 
 remote_dependency: app-marketing-google-ads {
